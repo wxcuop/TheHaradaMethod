@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     A[Set a long-term goal] --> B[Analyze the purpose of the goal]
     B --> C[Decide measures for the goal]
@@ -8,3 +9,4 @@ flowchart LR
 
     classDef arrow fill:#d0e3ff,stroke:#a3bce6,color:#000,stroke-width:1px;
     class A,B,C,D,E,F,G arrow;
+```
