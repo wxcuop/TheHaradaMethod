@@ -1,0 +1,2 @@
+Routine Check Sheet
+This is a daily checklist to help strengthen the individual’s habits; it is developed based on the 64 tasks that have been identified. A daily checklist should not include more than ten – if more than that, completing them may be a challenge. The purpose of the routine check sheet is to facilitate the goal’s achievement – not to stop progress at the start. (In the example below, Table 1 illustrates the routine check sheet.)
