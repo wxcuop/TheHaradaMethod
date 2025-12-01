@@ -81,8 +81,3 @@ This connects directly to the **Harada Method**, where the structure (1–8–64
 
 **Kaizen style = small, continuous improvements that everyone contributes to, guided by root-cause problem-solving and iterative learning.**
 
-If you want, I can also:
-
-* Compare Kaizen vs Harada
-* Provide examples for trading, leadership, or software engineering
-* Create a Kaizen habit tracker or PDCA worksheet
